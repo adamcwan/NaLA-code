@@ -1,6 +1,5 @@
-# NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation
+# NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation (ECCV 2026)
 
-**ECCV 2026**
 
 <p align="center">
   <a href="https://adamcwan.github.io/NaLA/"><strong>Project Page</strong></a> |
