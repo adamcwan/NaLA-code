@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://adamcwan.github.io/NaLA/"><strong>Project Page</strong></a> |
-  <a href="https://arxiv.org/"><strong>arXiv</strong></a> |
+  <a href="[https://arxiv.org](http://arxiv.org/abs/2606.29395)/"><strong>arXiv</strong></a> |
   <a href="https://github.com/adamcwan/NaLA-code"><strong>Code</strong></a>
 </p>
 
